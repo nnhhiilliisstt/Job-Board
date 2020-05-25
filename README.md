@@ -1,2 +1,2 @@
 # Job-Board
-Landing page for job site
+Landing page for job site 
